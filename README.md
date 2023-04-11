@@ -1,5 +1,7 @@
 # Weather Data Visualizer
 
+![](screenshots/weatherDataV1.png)
+
 ## Overview
 
 A WIP project for a data visualizer. 

@@ -1,0 +1,8 @@
+# Temporary files for testing
+src/AppTest.java
+src/Test.fxml
+
+
+.vscode/
+bin/
+lib/
